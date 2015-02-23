@@ -60,7 +60,4 @@ proguard/
 *.back
 
 #ROXIMITYlib Builds
-tempSDKbuilds/
-SDKbuilds/
 .DS_Store
-ROXIMITYlib/build/
