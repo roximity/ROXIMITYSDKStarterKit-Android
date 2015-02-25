@@ -45,18 +45,12 @@ proguard/
 .idea/
 
 #Android Studio
-.idea/
 .gradle
-/*/local.properties
-/*/out
-/*/*/build
-/*/*/production
-*.iml
-*.iws
-*.ipr
-*~
-*.swp
-*.back
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
 
 #ROXIMITYlib Builds
 .DS_Store
