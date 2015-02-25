@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data android:name="ROXIMITY_APPLICATION_ID" android:value="YOUR_APPLICATION_ID_HERE" />
     </application>
 
 </manifest>
