@@ -14,7 +14,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.roximity.roximitystarterkit.R;
+import com.roximity.roximitysdkstarterkit.R;
 import com.roximity.sdk.ROXIMITYEngine;
 import com.roximity.sdk.ROXIMITYEngineListener;
 import com.roximity.sdk.external.ROXConsts;
