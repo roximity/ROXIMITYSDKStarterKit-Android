@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':ROXIMITY_SDK'

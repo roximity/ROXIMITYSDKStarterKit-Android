@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('ROXIMITY_SDK_1_3_33.aar'))
