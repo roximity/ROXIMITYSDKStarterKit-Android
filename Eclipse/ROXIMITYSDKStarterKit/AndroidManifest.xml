@@ -31,7 +31,7 @@
             android:label="URL Launcher" >
         </activity>
 
-        <receiver android:name="com.roximity.sdk.location.GeofenceReceiver"
+        <receiver android:name="com.roximity.system.clapis.GeofenceReceiver"
             android:exported="false">
             <intent-filter >
                 <action android:name="com.roximity.sdk.ACTION_RECEIVE_GEOFENCE"/>
